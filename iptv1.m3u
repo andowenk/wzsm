@@ -651,7 +651,50 @@ http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 #EXTINF:-1 tvg-id="newtv超级综艺" tvg-name="newtv超级综艺" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级综艺.png" group-title="📱数字频道",超级综艺
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8
 #EXTINF:-1 tvg-id="newtv金牌综艺" tvg-name="newtv金牌综艺" tvg-logo="https://live.fanmingming.com/tv/NEWTV金牌综艺.png" group-title="📱数字频道",金牌综艺
-http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8
-
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666
+#EXTINF:-1 ,浙江经济生活
+http://guany.myds.me:25852/rtp/233.50.201.133:5140
+#EXTINF:-1 ,浙江教育
+http://guany.myds.me:25852/rtp/233.50.201.134:5140
+#EXTINF:-1 ,浙江民生
+http://guany.myds.me:25852/rtp/233.50.201.136:5140
+#EXTINF:-1 ,浙江news
+http://guany.myds.me:25852/rtp/233.50.201.137:5140
+#EXTINF:-1 ,浙江少儿
+http://guany.myds.me:25852/rtp/233.50.201.138:5140
+#EXTINF:-1 ,中国蓝直播-193
+http://guany.myds.me:25852/rtp/233.50.201.193:5140
+#EXTINF:-1 ,中国蓝直播-108
+http://guany.myds.me:25852/rtp/233.50.201.108:5140
+#EXTINF:-1 ,钱江频道
+http://guany.myds.me:25852/rtp/233.50.201.132:5140
+#EXTINF:-1 ,杭州1综合
+http://guany.myds.me:25852/rtp/233.50.201.173:5140
+#EXTINF:-1 ,杭州2明珠
+http://guany.myds.me:25852/rtp/233.50.201.174:5140
+#EXTINF:-1 ,杭州3生活
+http://guany.myds.me:25852/rtp/233.50.201.175:5140
+#EXTINF:-1 ,杭州4影视
+http://guany.myds.me:25852/rtp/233.50.201.176:5140
+#EXTINF:-1 ,杭州5青少
+http://guany.myds.me:25852/rtp/233.50.201.177:5140
+#EXTINF:-1 ,杭州导视
+http://guany.myds.me:25852//rtp/233.50.201.182:5140
+#EXTINF:-1 ,宁波TV1
+http://guany.myds.me:25852/rtp/233.50.201.168:5140
+#EXTINF:-1 ,宁波TV2
+http://guany.myds.me:25852/rtp/233.50.201.178:5140
+#EXTINF:-1 ,宁波TV3
+http://guany.myds.me:25852/rtp/233.50.201.179:5140
+#EXTINF:-1 ,宁波TV4
+http://guany.myds.me:25852/rtp/233.50.201.180:5140
+#EXTINF:-1 ,温州新闻
+http://guany.myds.me:25852/rtp/233.50.201.87:5140
+#EXTINF:-1 ,绍兴新闻
+http://guany.myds.me:25852/rtp/233.50.201.156:5140
+#EXTINF:-1 ,杭州导视
+http://guany.myds.me:25852/rtp/233.50.201.182:5140
+#EXTINF:-1 ,之江记录
+http://guany.myds.me:25852/rtp/233.50.202.25:5140
 
 
