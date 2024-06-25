@@ -688,7 +688,7 @@ http://guany.myds.me:25852/rtp/233.50.201.178:5140
 http://guany.myds.me:25852/rtp/233.50.201.179:5140
 #EXTINF:-1 ,宁波TV4
 http://guany.myds.me:25852/rtp/233.50.201.180:5140
-#EXTINF:-1 ,温州新闻
+#EXTINF:-1 tvg-name="WZNEWS" tvg-logo="https://live.fanmingming.com/tv/WZNWS.png" group-title="温州频道",温州新闻
 http://guany.myds.me:25852/rtp/233.50.201.87:5140
 #EXTINF:-1 ,绍兴新闻
 http://guany.myds.me:25852/rtp/233.50.201.156:5140
