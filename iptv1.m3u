@@ -688,13 +688,13 @@ http://guany.myds.me:25852/rtp/233.50.201.178:5140
 http://guany.myds.me:25852/rtp/233.50.201.179:5140
 #EXTINF:-1 ,宁波TV4
 http://guany.myds.me:25852/rtp/233.50.201.180:5140
-#EXTINF:-1 tvg-id="温州综合" tvg-name="温州综合" tvg-logo="https://zjykfy.github.io/ykfy/tv/温州综合.png" group-title="温州频道",温州新闻综合
+#EXTINF:-1 tvg-id="温州综合" tvg-name="温州综合" tvg-logo="https://zjykfy.github.io/ykfy/tv/温州综合.png" group-title="温州频道",温州综合
 http://guany.myds.me:25852/rtp/233.50.201.87:5140
-#EXTINF:-1 tvg-id="温州综合" tvg-name="温州综合" tvg-logo="https://zjykfy.github.io/ykfy/tv/温州综合.png" group-title="温州频道",温州新闻综合
+#EXTINF:-1 tvg-id="温州综合" tvg-name="温州综合" tvg-logo="https://zjykfy.github.io/ykfy/tv/温州综合.png" group-title="温州频道",温州综合
 http://220.189.89.123:9999/udp/233.50.201.87:5140
-#EXTINF:-1 tvg-id="温州综合" tvg-name="温州综合" tvg-logo="https://zjykfy.github.io/ykfy/tv/温州综合.png" group-title="温州频道",温州新闻综合
+#EXTINF:-1 tvg-id="温州综合" tvg-name="温州综合" tvg-logo="https://zjykfy.github.io/ykfy/tv/温州综合.png" group-title="温州频道",温州综合
 http://218.71.45.167:9999/udp/233.50.201.87:5140
-#EXTINF:-1 tvg-id="温州综合" tvg-name="温州综合" tvg-logo="https://zjykfy.github.io/ykfy/tv/温州综合.png" group-title="温州频道",温州新闻综合
+#EXTINF:-1 tvg-id="温州综合" tvg-name="温州综合" tvg-logo="https://zjykfy.github.io/ykfy/tv/温州综合.png" group-title="温州频道",温州综合
 http://www.jeremyoto.com:82/udp/233.50.201.87:5140
 #EXTINF:-1 ,绍兴新闻
 http://guany.myds.me:25852/rtp/233.50.201.156:5140
