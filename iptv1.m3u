@@ -38,8 +38,8 @@ http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63872908d48f9/index.m
 #EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="央视频道",CCTV-4K 超高清
 http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
 #EXTINF:-1 tvg-id="温州综合" tvg-name="温州综合" tvg-logo="https://www.yangfeiyue.cn/tv/温州综合.png" group-title="浙江频道",温州综合
-http://guany.myds.me:25852/udp/233.50.201.87:5140
-#http://183.158.164.228:4022/rtp/233.50.201.87:5140
+http://183.158.164.228:4022/rtp/233.50.201.87:5140
+#http://guany.myds.me:25852/trp/233.50.201.87:5140
 #http://218.71.45.167:9999/udp/233.50.201.87:5140
 #http://www.jeremyoto.com:82/udp/233.50.201.87:5140
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.com/tv/浙江卫视.png" group-title="浙江频道",浙江卫视
