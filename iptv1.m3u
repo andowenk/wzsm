@@ -354,3 +354,72 @@ http://125.109.32.89:4022/udp/233.50.201.85:5140
 #EXTINF:-1 tvg-id="60" tvg-name="民生资讯广播" tvg-logo="http://yourhost/iptv-logo/null.png" group-title="广播频道",民生资讯广播
 http://125.109.32.89:4022/udp/233.50.201.86:5140
 
+#EXTINF:0,💋💋纯享精彩 4K
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000004000011651/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000004000011651
+#EXTINF:0,💋💋CCTV16 4K
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000008000023254/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000008000023254
+#EXTINF:0,💋💋纯享4K
+http://gslbservzqhsw.itv.cmvideo.cn/1000000004000011651/index.m3u8?channel-id=ystenlive&Contentid=1000000004000011651&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="178" tvg-logo="https://pic.erw.cc/epglogo/shuzi/dsjc.png" group-title="数字付费",都市剧场
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000002000004412/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000002000004412
+#EXTINF:-1 tvg-id="222" tvg-logo="https://pic.erw.cc/epglogo/shuzi/yxfy.png" group-title="数字付费",游戏风云
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000002000027005/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000002000027005
+#EXTINF:-1 tvg-id="176" tvg-logo="https://pic.erw.cc/epglogo/shuzi/jbty.png" group-title="数字付费",劲爆体育
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000002000029972/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000002000029972
+#EXTINF:-1 tvg-id="173" tvg-logo="https://pic.erw.cc/epglogo/shuzi/klcd.png" group-title="数字付费",快乐垂钓
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000011000031206/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000011000031206
+#EXTINF:-1 tvg-id="186" tvg-logo="https://pic.erw.cc/epglogo/shuzi/mlzq.png" group-title="数字付费",魅力足球
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000011000031207/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000011000031207
+#EXTINF:-1 tvg-id="188" tvg-logo="https://pic.erw.cc/epglogo/shuzi/shss.png" group-title="数字付费",生活时尚
+http://gslbservzqhsw.itv.cmvideo.cn/000000001000/5000000002000019634/1.m3u8?channel-id=bestzb&Contentid=5000000002000019634&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="175" tvg-logo="https://pic.erw.cc/epglogo/shuzi/dmxc.png" group-title="数字付费",动漫秀场
+http://gslbservzqhsw.itv.cmvideo.cn/000000001000/5000000002000023636/1.m3u8?channel-id=bestzb&Contentid=5000000002000023636&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="174" tvg-logo="https://pic.erw.cc/epglogo/shuzi/dfcj.png" group-title="数字付费",东方财经
+http://gslbservzqhsw.itv.cmvideo.cn/000000001000/5000000007000010003/1.m3u8?channel-id=bestzb&Contentid=5000000007000010003&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="170" tvg-logo="https://pic.erw.cc/epglogo/shanghai/Shanghai5.png" group-title="数字付费",五星体育
+http://gslbservzqhsw.itv.cmvideo.cn/000000001000/5000000010000017540/1.m3u8?channel-id=bestzb&Contentid=5000000010000017540&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="263" tvg-logo="https://pic.erw.cc/epglogo/shanghai/Shanghai2.png" group-title="数字付费",上海都市
+http://gslbservzqhsw.itv.cmvideo.cn/000000001000/5000000010000018926/1.m3u8?channel-id=bestzb&Contentid=5000000010000018926&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="198" tvg-logo="https://pic.erw.cc/epglogo/shuzi/dycj.png" group-title="数字付费",上海第一财经
+http://gslbservzqhsw.itv.cmvideo.cn/000000001000/5000000010000027146/index.m3u8?channel-id=bestzb&Contentid=5000000010000027146&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="195" tvg-logo="https://pic.erw.cc/epglogo/shanghai/Shanghai3.png" group-title="数字付费",东方影视
+http://gslbservzqhsw.itv.cmvideo.cn/000000001000/5000000010000032212/1.m3u8?channel-id=bestzb&Contentid=5000000010000032212&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="199" tvg-logo="https://pic.erw.cc/epglogo/shanghai/Shanghai1.png" group-title="数字付费",上海新闻综合
+http://gslbservzqhsw.itv.cmvideo.cn/000000001000/5000000011000031110/1.m3u8?channel-id=bestzb&Contentid=5000000011000031110&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="179" tvg-logo="https://pic.erw.cc/epglogo/shuzi/leyou.png" group-title="数字付费",乐游
+http://gslbservzqhsw.itv.cmvideo.cn/000000001000/5000000011000031112/index.m3u8?channel-id=bestzb&Contentid=5000000011000031112&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="285" tvg-logo="https://pic.erw.cc/epglogo/shuzi/qcxj.png" group-title="数字付费",七彩戏剧
+http://gslbservzqhsw.itv.cmvideo.cn/000000001000/5000000011000031116/1.m3u8?channel-id=bestzb&Contentid=5000000011000031116&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="187" tvg-logo="https://pic.erw.cc/epglogo/shuzi/fztd.png" group-title="数字付费",法治天地
+http://gslbservzqhsw.itv.cmvideo.cn/000000001000/9001547084732463424/index.m3u8?channel-id=bestzb&Contentid=9001547084732463424&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="185" tvg-logo="https://pic.erw.cc/epglogo/shuzi/jsxt.png" group-title="数字付费",金色学堂
+http://gslbservzqhsw.itv.cmvideo.cn/5000000010000026105/index.m3u8?channel-id=bestzb&Contentid=5000000010000026105&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="197" tvg-logo="https://pic.erw.cc/epglogo/shanghai/Shanghai4.png" group-title="数字付费",上海外语
+http://gslbservzqhsw.itv.cmvideo.cn/5000000010000030951/index.m3u8?channel-id=bestzb&Contentid=5000000010000030951&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="169" tvg-logo="https://pic.erw.cc/epglogo/hunan/Hunan9.png" group-title="数字付费",金鹰纪实
+http://gslbservzqhsw.itv.cmvideo.cn/5000000011000031203/index.m3u8?channel-id=bestzb&Contentid=5000000011000031203&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="177" tvg-logo="https://pic.erw.cc/epglogo/shuzi/chapd.png" group-title="数字付费",茶频道
+http://gslbservzqhsw.itv.cmvideo.cn/5000000011000031209/index.m3u8?channel-id=bestzb&Contentid=5000000011000031209&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="135" tvg-name="卡酷少儿" tvg-logo="https://pic.erw.cc/epglogo/beijing/Beijing8.png" group-title="数字付费",卡酷少儿
+http://gslbservzqhsw.itv.cmvideo.cn/7851974109718180595/index.m3u8?channel-id=bestzb&Contentid=7851974109718180595&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="209" tvg-name="哈哈炫动" tvg-logo="https://pic.erw.cc/epglogo/shuzi/hhxd.png" group-title="数字付费",哈哈炫动
+http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000002000000172&livemode=1&stbId=4
+#EXTINF:-1 tvg-id="168" tvg-name="金鹰卡通" tvg-logo="https://pic.erw.cc/epglogo/hunan/Hunan10.png" group-title="数字付费",金鹰卡通
+http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000002000016601&livemode=1&stbId=4
+#EXTINF:-1 tvg-id="159" tvg-name="嘉佳卡通" tvg-logo="https://pic.erw.cc/epglogo/guangdong/Guangdong14.png" group-title="数字付费",嘉佳卡通
+http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000002000025964&livemode=1&stbId=4
+#EXTINF:-1 tvg-logo="https://pic.erw.cc/epglogo/NewTV/NewTV22.png" group-title="NewTV",超级体育
+http://gslbservzqhsw.itv.cmvideo.cn/000000001000/1000000001000009601/1.m3u8?channel-id=ystenlive&Contentid=1000000001000009601&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="429" tvg-name="超级电视剧" tvg-logo="https://pic.erw.cc/epglogo/NewTV/NewTV25.png" group-title="NewTV",超级电视剧
+http://gslbservzqhsw.itv.cmvideo.cn/000000001000/1000000004000024993/1.m3u8?channel-id=ystenlive&Contentid=1000000004000024993&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="427" tvg-name="超级综艺" tvg-logo="https://pic.erw.cc/epglogo/NewTV/NewTV24.png" group-title="NewTV",超级综艺
+http://gslbservzqhsw.itv.cmvideo.cn/000000001000/1000000001000025771/1.m3u8?channel-id=ystenlive&Contentid=1000000001000025771&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="428" tvg-name="超级电影" tvg-logo="https://pic.erw.cc/epglogo/NewTV/NewTV23.png" group-title="NewTV",超级电影
+http://gslbservzqhsw.itv.cmvideo.cn/000000001000/1000000001000012884/1.m3u8?channel-id=ystenlive&Contentid=1000000001000012884&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="431" tvg-name="东北热剧" tvg-logo="https://pic.erw.cc/epglogo/NewTV/NewTV09.png" group-title="NewTV",东北热剧
+http://gslbservzqhsw.itv.cmvideo.cn/000000001000/1000000005000266013/index.m3u8?channel-id=ystenlive&Contentid=1000000005000266013&livemode=1&stbId=3
+#EXTINF:-1 group-title="NewTV",精品综合
+http://gslbservzqhsw.itv.cmvideo.cn/000000001000/1000000004000019008/index.m3u8?channel-id=ystenlive&Contentid=1000000004000019008&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="536" tvg-logo="https://pic.erw.cc/epglogo/NewTV/NewTV34.png" group-title="NewTV",魅力潇湘
+http://gslbservzqhsw.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=1000000001000006197&livemode=1&stbId=3
+
