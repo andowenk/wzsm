@@ -287,7 +287,7 @@ http://maitao.fjnt.com:9999/udp/233.50.201.87:5140
 http://183.249.114.8:58888/udp/233.50.201.87:5140
 
 #EXTINF:-1 tvg-id="温州新闻3" tvg-name="温州新闻3" tvg-logo="https://live.fanmingming.com/tv/温州新闻.png" group-title="温州频道",温州新闻3
-http://192.168.1.1:4022/udp/233.50.201.87:5140
+http://183.130.196.42:4022/udp/233.50.201.87:5140
 #EXTINF:-1 tvg-name="黑莓动画" tvg-logo="https://live.fanmingming.com/tv/黑莓动画.png" group-title="數字頻道V6",黑莓动画
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010002/1.m3u8
 #EXTINF:-1 tvg-name="古装剧场" tvg-logo="https://live.fanmingming.com/tv/古装剧场.png" group-title="數字頻道V6",古装剧场
