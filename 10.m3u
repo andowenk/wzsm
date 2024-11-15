@@ -242,7 +242,7 @@ http://maitao.fjnt.com:9999/udp/233.50.201.87:5140
 http://183.249.114.8:58888/udp/233.50.201.87:5140
 
 #EXTINF:-1 tvg-id="温州新闻3" tvg-name="温州新闻3" tvg-logo="https://live.fanmingming.com/tv/温州新闻.png" group-title="温州频道",温州新闻3
-http://d.ohbank.cn:65103/udp/233.50.201.87:5140
+http://183.130.196.42:65103/udp/233.50.201.87:5140
 
 
 #EXTINF:1 group-title="AKTV" aktv-server-group="AKTV" tvg-id="aktv/28ai" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", 28 AI 智慧賽馬
