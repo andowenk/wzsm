@@ -401,7 +401,14 @@ SiTV生活时尚,http://[2409:8087:5e08:24::11]:6610/000000001000/20000000020000
 CNA,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000068/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000068&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
 SiTV劲爆体育,http://[2409:8087:5e01:24::16]:6610/000000001000/2000000002000000008/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000008&IASHttpSessionId=OTT19019320240419154124000281
 
+#EXTINF:-1 tvg-id="温州新闻1" tvg-name="温州新闻1" tvg-logo="https://live.fanmingming.com/tv/温州新闻.png" group-title="温州频道",温州新闻1
+http://maitao.fjnt.com:9999/udp/233.50.201.87:5140
 
+#EXTINF:-1 tvg-id="温州新闻2" tvg-name="温州新闻2" tvg-logo="https://live.fanmingming.com/tv/温州新闻.png" group-title="温州频道",温州新闻2
+http://183.249.114.8:58888/udp/233.50.201.87:5140
+
+#EXTINF:-1 tvg-id="温州新闻3" tvg-name="温州新闻3" tvg-logo="https://live.fanmingming.com/tv/温州新闻.png" group-title="温州频道",温州新闻3
+http://183.130.196.42:65103/udp/233.50.201.87:5140
 
 
 
