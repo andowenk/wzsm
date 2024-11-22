@@ -39,7 +39,14 @@ http://php.jdshipin.com/TVOD/gsyd.php?id=9900000507
 #EXTINF:-1 tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视频道",CGTN
 http://php.jdshipin.com/itv6.php?cid=hnbblive&id=7745129417417101820
 
+#EXTINF:-1 tvg-id="温州新闻1" tvg-name="温州新闻1" tvg-logo="https://live.fanmingming.com/tv/温州新闻.png" group-title="温州频道",温州新闻1
+http://maitao.fjnt.com:9999/udp/233.50.201.87:5140
 
+#EXTINF:-1 tvg-id="温州新闻2" tvg-name="温州新闻2" tvg-logo="https://live.fanmingming.com/tv/温州新闻.png" group-title="温州频道",温州新闻2
+http://183.249.114.8:58888/udp/233.50.201.87:5140
+
+#EXTINF:-1 tvg-id="温州新闻3" tvg-name="温州新闻3" tvg-logo="https://live.fanmingming.com/tv/温州新闻.png" group-title="温州频道",温州新闻3
+http://183.130.196.42:65103/udp/233.50.201.87:5140
 
 
 #EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://wfg2000.github.io/epg/icon/山东卫视.png" group-title="山东频道",山东卫视
