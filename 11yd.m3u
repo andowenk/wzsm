@@ -1419,38 +1419,7 @@ http://wb.jxgztv.com/live/gztv1.m3u8
 http://ganyu-tv-hls.cm.jstv.com/ganyu-tv/ganyutv.m3u8
 #EXTINF:-1 tvg-name="庐山综合" tvg-logo="https://live.fanmingming.com/tv/庐山综合.png" group-title="地方频道",庐山综合
 http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_lushan.m3u8
-#EXTINF:-1 tvg-name="都昌新闻综合" tvg-logo="https://live.fanmingming.com/tv/都昌新闻综合.png" group-title="地方频道",都昌新闻综合
-http://live02.jxtvcn.com.cn/live/ganyun_duchang.m3u8?t=2510710360&token=70d2602b47c0da05edb07c49ea83d573
-#EXTINF:-1 tvg-name="庐山综合" tvg-logo="https://live.fanmingming.com/tv/庐山综合.png" group-title="地方频道",庐山综合
-http://live02.jxtvcn.com.cn/live/ganyun_lushan.m3u8?t=2510710360&token=70d2602b47c0da05edb07c49ea83d573
-#EXTINF:-1 tvg-name="彭泽综合" tvg-logo="https://live.fanmingming.com/tv/彭泽综合.png" group-title="地方频道",彭泽综合
-http://live02.jxtvcn.com.cn/live/ganyun_pengze.m3u8?t=2510710360&token=70d2602b47c0da05edb07c49ea83d573
-#EXTINF:-1 tvg-name="武宁新闻综合" tvg-logo="https://live.fanmingming.com/tv/武宁新闻综合.png" group-title="地方频道",武宁新闻综合
-http://live02.jxtvcn.com.cn/live/ganyun_wuning.m3u8?t=2510710360&token=70d2602b47c0da05edb07c49ea83d573
-#EXTINF:-1 tvg-name="永修综合" tvg-logo="https://live.fanmingming.com/tv/永修综合.png" group-title="地方频道",永修综合
-http://live02.jxtvcn.com.cn/live/ganyun_yongxiu.m3u8?t=2510710360&token=70d2602b47c0da05edb07c49ea83d573
-#EXTINF:-1 tvg-name="萍乡新闻综合" tvg-logo="https://live.fanmingming.com/tv/萍乡新闻综合.png" group-title="地方频道",萍乡新闻综合
-http://live02.jxtvcn.com.cn/live/ganyun_px_xwzh.m3u8?t=2510710360&token=70d2602b47c0da05edb07c49ea83d573
-#EXTINF:-1 tvg-name="萍乡公共" tvg-logo="https://live.fanmingming.com/tv/萍乡公共.png" group-title="地方频道",萍乡公共
-http://live02.jxtvcn.com.cn/live/ganyun_px_ggpd.m3u8?t=2510710360&token=70d2602b47c0da05edb07c49ea83d573
-#EXTINF:-1 tvg-name="上饶新闻综合" tvg-logo="https://live.fanmingming.com/tv/上饶新闻综合.png" group-title="地方频道",上饶新闻综合
-http://live02.jxtvcn.com.cn/live/ganyun_shangrao1.m3u8?t=2510710360&token=70d2602b47c0da05edb07c49ea83d573
-#EXTINF:-1 tvg-name="上饶经济旅游" tvg-logo="https://live.fanmingming.com/tv/上饶经济旅游.png" group-title="地方频道",上饶经济旅游
-http://live02.jxtvcn.com.cn/live/ganyun_shangrao2.m3u8?t=2510710360&token=70d2602b47c0da05edb07c49ea83d573
-#EXTINF:-1 tvg-name="广丰综合" tvg-logo="https://live.fanmingming.com/tv/广丰综合.png" group-title="地方频道",广丰综合
-http://live02.jxtvcn.com.cn/live/ganyun_guangfeng.m3u8?t=2510710360&token=70d2602b47c0da05edb07c49ea83d573
-#EXTINF:-1 tvg-name="余干综合" tvg-logo="https://live.fanmingming.com/tv/余干综合.png" group-title="地方频道",余干综合
-http://live02.jxtvcn.com.cn/live/ganyun_yugan.m3u8?t=2510710360&token=70d2602b47c0da05edb07c49ea83d573
-#EXTINF:-1 tvg-name="分宜综合" tvg-logo="https://live.fanmingming.com/tv/分宜综合.png" group-title="地方频道",分宜综合
-http://live02.jxtvcn.com.cn/live/ganyun_fenyi_tv.m3u8?t=2510710360&token=70d2602b47c0da05edb07c49ea83d573
-#EXTINF:-1 tvg-name="铜鼓综合" tvg-logo="https://live.fanmingming.com/tv/铜鼓综合.png" group-title="地方频道",铜鼓综合
-http://live02.jxtvcn.com.cn/live/ganyun_tonggu.m3u8?t=2510710360&token=70d2602b47c0da05edb07c49ea83d573
-#EXTINF:-1 tvg-name="万载综合" tvg-logo="https://live.fanmingming.com/tv/万载综合.png" group-title="地方频道",万载综合
-http://live02.jxtvcn.com.cn/live/ganyun_wanzai.m3u8?t=2510710360&token=70d2602b47c0da05edb07c49ea83d573
-#EXTINF:-1 tvg-name="宁都综合" tvg-logo="https://live.fanmingming.com/tv/宁都综合.png" group-title="地方频道",宁都综合
-http://live02.jxtvcn.com.cn/live/ganyun_ningdu.m3u8?t=2510710360&token=70d2602b47c0da05edb07c49ea83d573
-#EXTINF:-1 tvg-name="井冈山综合" tvg-logo="https://live.fanmingming.com/tv/井冈山综合.png" group-title="地方频道",井冈山综合
-http://live02.jxtvcn.com.cn/live/ganyun_jgs.m3u8?t=2510710360&token=70d2602b47c0da05edb07c49ea83d573
+
 #EXTINF:-1 tvg-name="广安新闻综合" tvg-logo="https://live.fanmingming.com/tv/广安新闻综合.png" group-title="地方频道",广安新闻综合
 http://live1.gatv.com.cn:85/live/XWZH.m3u8
 #EXTINF:-1 tvg-name="广安公共频道" tvg-logo="https://live.fanmingming.com/tv/广安公共频道.png" group-title="地方频道",广安公共频道
