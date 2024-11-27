@@ -1,52 +1,42 @@
-#EXTM3U x-tvg-url="http://192.168.10.5:18880/index.php"
+
 #EXTINF:-1,tvg-logo="https://pic.imgdb.cn/item/66fb44f6f21886ccc072da10.png" tvg-name="CCTV1" group-title="央视",CCTV-1综合
-rtsp://220.186.213.205/PLTV/88888913/224/3221228078/10000100000000060000000002460690_0.smil
+http://192.168.1.1:4022/udp/233.50.201.118:5140
 #EXTINF:-1,tvg-logo="https://pic.imgdb.cn/item/66fb44f6f21886ccc072d9c0.png" tvg-name="CCTV2" group-title="央视",CCTV-2财经
-rtsp://220.186.213.205/PLTV/88888913/224/3221228083/10000100000000060000000002633372_0.smil
+http://192.168.1.1:4022/udp/233.50.201.119:5140
 #EXTINF:-1,tvg-logo="https://pic.imgdb.cn/item/66fb44f6f21886ccc072d9db.png" tvg-name="CCTV3" group-title="央视",CCTV-3综艺
-rtsp://220.186.213.205/PLTV/88888913/224/3221229136/10000100000000060000000005809121_0.smil
+http://192.168.1.1:4022/udp/233.50.201.196:5140
 #EXTINF:-1,tvg-logo="https://pic.imgdb.cn/item/66fb44f6f21886ccc072d9ed.png" tvg-name="CCTV4" group-title="央视",CCTV-4中文国际
-http://192.168.50.2/rtp/233.50.200.101:5140
-#EXTINF:-1,tvg-logo="https://pic.imgdb.cn/item/66fb44f6f21886ccc072d9ed.png" tvg-name="CCTV4" group-title="央视",CCTV-4中文国际
-rtsp://220.186.213.205/PLTV/88888913/224/3221227806/10000100000000060000000000304159_0.smil$回看
+http://192.168.1.1:4022/udp/233.50.200.101:5140
 #EXTINF:-1,tvg-logo="https://pic.imgdb.cn/item/66fb44f6f21886ccc072da00.png" tvg-name="CCTV5" group-title="央视",CCTV-5体育
-rtsp://220.186.213.205/PLTV/88888913/224/3221229114/10000100000000060000000005809143_0.smil
+http://192.168.1.1:4022/udp/233.50.201.197:5140
 #EXTINF:-1,tvg-logo="https://pic.imgdb.cn/item/66fb4529f21886ccc072fb0c.png" tvg-name="CCTV5+" group-title="央视",CCTV-5+体育赛事
-rtsp://220.186.213.205/PLTV/88888913/224/3221229201/52583204.smil
+http://192.168.1.1:4022/udp/233.50.201.220:5140
 #EXTINF:-1,tvg-logo="https://pic.imgdb.cn/item/66fb4529f21886ccc072fb1c.png" tvg-name="CCTV6" group-title="央视",CCTV-6电影
-rtsp://220.186.213.205/PLTV/88888913/224/3221229161/10000100000000060000000005809142_0.smil
+http://192.168.1.1:4022/udp/233.50.201.198:5140
 #EXTINF:-1,tvg-logo="https://pic.imgdb.cn/item/66fb4529f21886ccc072facf.png" tvg-name="CCTV7" group-title="央视",CCTV-7国防军事
-rtsp://220.186.213.205/PLTV/88888913/224/3221228093/10000100000000060000000002633385_0.smil
+http://192.168.1.1:4022/udp/233.50.201.120:5140
 #EXTINF:-1,tvg-logo="https://pic.imgdb.cn/item/66fb4529f21886ccc072faec.png" tvg-name="CCTV8" group-title="央视",CCTV-8电视剧
-rtsp://220.186.213.205/PLTV/88888913/224/3221229157/10000100000000060000000005809141_0.smil
+http://192.168.1.1:4022/udp/233.50.201.199:5140
 #EXTINF:-1,tvg-logo="https://pic.imgdb.cn/item/66fb4529f21886ccc072faff.png" tvg-name="CCTV9" group-title="央视",CCTV-9纪录
-rtsp://220.186.213.205/PLTV/88888913/224/3221228112/10000100000000060000000002633384_0.smil
+http://192.168.1.1:4022/udp/233.50.201.121:5140
 #EXTINF:-1,tvg-logo="https://pic.imgdb.cn/item/66fb4555f21886ccc0731c1a.png" tvg-name="CCTV10" group-title="央视",CCTV-10科教
-rtsp://220.186.213.205/PLTV/88888913/224/3221228131/10000100000000060000000002633383_0.smil
+http://192.168.1.1:4022/udp/233.50.201.122:5140
 #EXTINF:-1,tvg-logo="https://pic.imgdb.cn/item/66fb4555f21886ccc0731bdf.png" tvg-name="CCTV11" group-title="央视",CCTV-11戏曲
-http://192.168.50.2/rtp/233.50.200.132:5140
-#EXTINF:-1,tvg-logo="https://pic.imgdb.cn/item/66fb4555f21886ccc0731bdf.png" tvg-name="CCTV11" group-title="央视",CCTV-11戏曲
-rtsp://220.186.213.205/PLTV/88888913/224/3221227777/10000100000000060000000000304164_0.smil$回看
+http://192.168.1.1:4022/udp/233.50.200.132:5140
 #EXTINF:-1,tvg-logo="https://pic.imgdb.cn/item/66fb4555f21886ccc0731beb.png" tvg-name="CCTV12" group-title="央视",CCTV-12社会与法
-rtsp://220.186.213.205/PLTV/88888913/224/3221228130/10000100000000060000000002633382_0.smil
+http://192.168.1.1:4022/udp/233.50.201.123:5140
 #EXTINF:-1,tvg-logo="https://pic.imgdb.cn/item/66fb4555f21886ccc0731bfa.png" tvg-name="CCTV13" group-title="央视",CCTV-13新闻
-rtsp://220.186.213.205/PLTV/88888913/224/3221229154/52628615.smil
+http://192.168.1.1:4022/udp/233.50.201.246:5140
 #EXTINF:-1,tvg-logo="https://pic.imgdb.cn/item/66fb4555f21886ccc0731c08.png" tvg-name="CCTV14" group-title="央视",CCTV-14少儿
-rtsp://220.186.213.205/PLTV/88888913/224/3221228088/10000100000000060000000002633381_0.smil
+http://192.168.1.1:4022/udp/233.50.201.124:5140
 #EXTINF:-1,tvg-logo="https://pic.imgdb.cn/item/66fb4582f21886ccc0733abf.png" tvg-name="CCTV15" group-title="央视",CCTV-15音乐
-http://192.168.50.2/rtp/233.50.200.133:5140
-#EXTINF:-1,tvg-logo="https://pic.imgdb.cn/item/66fb4582f21886ccc0733abf.png" tvg-name="CCTV15" group-title="央视",CCTV-15音乐
-rtsp://220.186.213.205/PLTV/88888913/224/3221227993/10000100000000060000000000794054_0.smil$回看
+http://192.168.1.1:4022/udp/233.50.200.133:5140
 #EXTINF:-1,tvg-logo="https://pic.imgdb.cn/item/66fb4582f21886ccc0733a8a.png" tvg-name="CCTV16" group-title="央视",CCTV-16奥林匹克
-rtsp://220.186.213.205/PLTV/88888913/224/3221229331/74036079.smil
-#EXTINF:-1,tvg-logo="https://pic.imgdb.cn/item/66fb4582f21886ccc0733a8a.png" tvg-name="CCTV16" group-title="央视",CCTV-16奥林匹克
-rtsp://220.186.213.205/PLTV/88888913/224/3221229307/70526246.smil$回看
+http://192.168.1.1:4022/udp/233.50.201.192:5140
 #EXTINF:-1,tvg-logo="https://pic.imgdb.cn/item/66fb4582f21886ccc0733aa5.png" tvg-name="CCTV17" group-title="央视",CCTV-17农村农业
-http://192.168.50.2/rtp/233.50.200.113:5140
-#EXTINF:-1,tvg-logo="https://pic.imgdb.cn/item/66fb4582f21886ccc0733aa5.png" tvg-name="CCTV17" group-title="央视",CCTV-17农村农业
-rtsp://220.186.213.205/PLTV/88888913/224/3221229176/54864243.smil$回看
+http://192.168.1.1:4022/udp/233.50.200.113:5140
 #EXTINF:-1,tvg-logo="https://pic.imgdb.cn/item/66fb47e2f21886ccc07509b5.png" tvg-name="浙江卫视" group-title="卫视",浙江卫视
-rtsp://220.186.213.205/PLTV/88888913/224/3221228012/10000100000000060000000000794032_0.smil
+http://192.168.1.1:4022/udp/233.50.201.100:5140
 #EXTINF:-1,tvg-logo="https://pic.imgdb.cn/item/66fb45f8f21886ccc073973e.png" tvg-name="东方卫视" group-title="卫视",东方卫视
 rtsp://220.186.213.205/PLTV/88888913/224/3221228140/10000100000000060000000002670196_0.smil
 #EXTINF:-1,tvg-logo="https://pic.imgdb.cn/item/66fb467df21886ccc07403d3.png" tvg-name="湖南卫视" group-title="卫视",湖南卫视
@@ -86,25 +76,25 @@ rtsp://220.186.213.205/PLTV/88888913/224/3221228102/1000010000000006000000000224
 #EXTINF:-1,tvg-logo="https://pic.imgdb.cn/item/66fb47e2f21886ccc0750998.png" tvg-name="天津卫视" group-title="卫视",天津卫视
 rtsp://220.186.213.205/PLTV/88888913/224/3221228016/10000100000000060000000000794035_0.smil
 #EXTINF:-1,tvg-logo="https://pic.imgdb.cn/item/66fb4639f21886ccc073cc15.png" tvg-name="广西卫视" group-title="卫视",广西卫视
-http://192.168.50.2/rtp/233.50.200.136:5140
+http://192.168.1.1:4022/rtp/233.50.200.136:5140
 #EXTINF:-1,tvg-logo="https://pic.imgdb.cn/item/66fb4639f21886ccc073cc15.png" tvg-name="广西卫视" group-title="卫视",广西卫视
 rtsp://220.186.213.205/PLTV/88888913/224/3221227840/10000100000000060000000000304250_0.smil$回看
 #EXTINF:-1,tvg-logo="https://pic.imgdb.cn/item/66fb45f8f21886ccc0739758.png" tvg-name="甘肃卫视" group-title="卫视",甘肃卫视
-http://192.168.50.2/rtp/233.50.200.163:5140
+http://192.168.1.1:4022/udp/233.50.200.163:5140
 #EXTINF:-1,tvg-logo="https://pic.imgdb.cn/item/66fb45f8f21886ccc0739758.png" tvg-name="甘肃卫视" group-title="卫视",甘肃卫视
 rtsp://220.186.213.205/PLTV/88888913/224/3221229052/10000100000000060000000004969230_0.smil$回看
 #EXTINF:-1,tvg-logo="https://pic.imgdb.cn/item/66fb47e2f21886ccc07509a7.png" tvg-name="云南卫视" group-title="卫视",云南卫视
-http://192.168.50.2/rtp/233.50.200.115:5140
+http://192.168.1.1:4022/udp/233.50.200.115:5140
 #EXTINF:-1,tvg-logo="https://pic.imgdb.cn/item/66fb47e2f21886ccc07509a7.png" tvg-name="云南卫视" group-title="卫视",云南卫视
 rtsp://220.186.213.205/PLTV/88888913/224/3221227830/10000100000000060000000000304238_0.smil$回看
 #EXTINF:-1,tvg-logo="https://pic.imgdb.cn/item/66fb4639f21886ccc073cbec.png" tvg-name="海南卫视" group-title="卫视",海南卫视
-http://192.168.50.2/rtp/233.50.200.165:5140
+http://192.168.1.1:4022/udp/233.50.200.165:5140
 #EXTINF:-1,tvg-logo="https://pic.imgdb.cn/item/66fb4639f21886ccc073cbec.png" tvg-name="海南卫视" group-title="卫视",海南卫视
 rtsp://220.186.213.205/PLTV/88888913/224/3221227803/10000100000000060000000000304212_0.smil$回看
 #EXTINF:-1,tvg-logo="https://pic.imgdb.cn/item/66fb4790f21886ccc074cf78.png" tvg-name="三沙卫视" group-title="卫视",三沙卫视
-http://192.168.50.2/rtp/233.50.200.175:5140
+http://192.168.1.1:4022/udp/233.50.200.175:5140
 #EXTINF:-1,tvg-logo="https://pic.imgdb.cn/item/66fb4740f21886ccc0749580.png" tvg-name="吉林卫视" group-title="卫视",吉林卫视
-http://192.168.50.2/rtp/233.50.200.164:5140
+http://192.168.1.1:4022/udp/233.50.200.164:5140
 #EXTINF:-1,tvg-logo="https://pic.imgdb.cn/item/66fb4740f21886ccc0749580.png" tvg-name="吉林卫视" group-title="卫视",吉林卫视
 rtsp://220.186.213.205/PLTV/88888913/224/3221227802/10000100000000060000000000304236_0.smil$回看
 #EXTINF:-1,tvg-logo="https://pic.imgdb.cn/item/66fb4740f21886ccc0749549.png" tvg-name="内蒙古卫视" group-title="卫视",内蒙古卫视
@@ -140,27 +130,27 @@ rtsp://220.186.213.205/PLTV/88888913/224/3221229111/1000010000000006000000000479
 #EXTINF:-1,tvg-logo="https://pic.imgdb.cn/item/64fd43de661c6c8e54269a89.png" tvg-name="之江纪录" group-title="本地",之江纪录
 rtsp://220.186.213.205/PLTV/88888913/224/3221229409/92749537.smil
 #EXTINF:-1,tvg-logo="https://pic.imgdb.cn/item/66e07157d9c307b7e9a31aa3.png" tvg-name="杭州综合"  group-title="本地",杭州综合
-http://192.168.50.2/rtp/233.50.201.173:5140
+http://192.168.1.1:4022/udp/233.50.201.173:5140
 #EXTINF:-1,tvg-logo="https://pic.imgdb.cn/item/66fb498cf21886ccc0766067.png" tvg-name="西湖明珠"  group-title="本地",杭州西湖明珠
-http://192.168.50.2/rtp/233.50.201.174:5140
+http://192.168.1.1:4022/udp/233.50.201.174:5140
 #EXTINF:-1,tvg-logo="https://pic.imgdb.cn/item/66fb498cf21886ccc07660cf.png" tvg-name="杭州生活"  group-title="本地",杭州生活
-http://192.168.50.2/rtp/233.50.201.175:5140
+http://192.168.1.1:4022/udp/233.50.201.175:5140
 #EXTINF:-1,tvg-logo="https://pic.imgdb.cn/item/66fb498cf21886ccc076608c.png" tvg-name="杭州影视"  group-title="本地",杭州影视
-http://192.168.50.2/rtp/233.50.201.176:5140
+http://192.168.1.1:4022/udp/233.50.201.176:5140
 #EXTINF:-1,tvg-logo="https://pic.imgdb.cn/item/64f69a0c661c6c8e54904b97.png" tvg-name="杭州青少体育"  group-title="本地",杭州青少体育
 rtsp://220.186.213.205/PLTV/88888913/224/3221229217/57567111.smil
 #EXTINF:-1,tvg-logo="https://pic.imgdb.cn/item/66e07156d9c307b7e9a31890.png" tvg-name="杭州导视"  group-title="本地",杭州导视
-http://192.168.50.2/rtp/233.50.201.182:5140
+http://192.168.1.1:4022/udp/233.50.201.182:5140
 #EXTINF:-1,tvg-logo="https://pic.imgdb.cn/item/671a5904d29ded1a8c2946ef.png" tvg-name="宁波综合"  group-title="本地",宁波综合
-http://192.168.50.2/rtp/233.50.201.168:5140
+http://192.168.1.1:4022/udp/233.50.201.168:5140
 #EXTINF:-1,tvg-logo="https://pic.imgdb.cn/item/671a5904d29ded1a8c2946c2.png" tvg-name="宁波生活"  group-title="本地",宁波生活
-http://192.168.50.2/rtp/233.50.201.178:5140
+http://192.168.1.1:4022/udp/233.50.201.178:5140
 #EXTINF:-1,tvg-logo="https://pic.imgdb.cn/item/671a5904d29ded1a8c2946e5.png" tvg-name="宁波都市"  group-title="本地",宁波都市
-http://192.168.50.2/rtp/233.50.201.179:5140
+http://192.168.1.1:4022/udp/233.50.201.179:5140
 #EXTINF:-1,tvg-logo="https://pic.imgdb.cn/item/671a5904d29ded1a8c2946fe.png" tvg-name="宁波影视"  group-title="本地",宁波影视
-http://192.168.50.2/rtp/233.50.201.180:5140
+http://192.168.1.1:4022/udp/233.50.201.180:5140
 #EXTINF:-1,tvg-logo="https://pic.imgdb.cn/item/671a59efd29ded1a8c2a2139.png" tvg-name="绍兴新闻"  group-title="本地",绍兴新闻
-http://192.168.50.2/rtp/233.50.201.156:5140
+http://192.168.1.1:4022/udp/233.50.201.156:5140
 #EXTINF:-1,tvg-logo="https://pic.imgdb.cn/item/66e07160d9c307b7e9a325e2.png" tvg-name="温州新闻综合" group-title="本地",温州新闻综合
 rtsp://220.186.213.205/PLTV/88888913/224/3221228993/10000100000000060000000004199197_0.smil
 #EXTINF:-1,tvg-logo="https://pic.imgdb.cn/item/66fae84cf21886ccc03b895d.png" tvg-name="睛彩竞技" group-title="本地",睛彩竞技
@@ -174,13 +164,13 @@ rtsp://220.186.213.205/PLTV/88888913/224/3221229410/94611402.smil
 #EXTINF:-1,tvg-logo="https://pic.imgdb.cn/item/66fb4a19f21886ccc076ef72.png" tvg-name="都市剧场" group-title="本地",都市剧场
 rtsp://220.186.213.205/PLTV/88888913/224/3221229244/72486950.smil
 #EXTINF:-1,tvg-logo="https://pic.imgdb.cn/item/66aaf580d9c307b7e9da53cd.png" tvg-name="欢笑剧场" group-title="本地",欢笑剧场
-http://192.168.50.2/rtp/233.50.200.52:5140
+http://192.168.1.1:4022/udp/233.50.200.52:5140
 #EXTINF:-1,tvg-logo="https://pic.imgdb.cn/item/66aaf580d9c307b7e9da53cd.png" tvg-name="欢笑剧场" group-title="本地",欢笑剧场
 rtsp://220.186.213.205/PLTV/88888913/224/3221229240/72486906.smil$回看
 #EXTINF:-1,tvg-logo="https://pic.imgdb.cn/item/66fb48c0f21886ccc075b632.png" tvg-name="高清娱乐" group-title="本地",高清娱乐
 rtsp://220.186.213.205/PLTV/88888913/224/3221228121/10000100000000060000000002460688_0.smil
 #EXTINF:-1,tvg-logo="https://pic.imgdb.cn/item/66e07159d9c307b7e9a31cde.png" tvg-name="魅力足球" group-title="本地",魅力足球
-http://192.168.50.2/rtp/233.50.200.176:5140
+http://192.168.1.1:4022/udp/233.50.200.176:5140
 #EXTINF:-1,tvg-logo="https://pic.imgdb.cn/item/66aaf610d9c307b7e9dabdc6.png" tvg-name="乐游" group-title="本地",乐游
 rtsp://220.186.213.205/PLTV/88888913/224/3221229285/72486834.smil
 #EXTINF:-1,tvg-logo="https://pic.imgdb.cn/item/66aaf77bd9c307b7e9dbc174.png" tvg-name="游戏风云" group-title="本地",游戏风云
@@ -193,7 +183,7 @@ rtsp://220.186.213.205/PLTV/88888913/224/3221228073/1000010000000006000000000246
 rtsp://220.186.213.205/PLTV/88888913/224/3221229315/72486946.smil
 #EXTINF:-1,tvg-logo="https://pic.imgdb.cn/item/66aaf786d9c307b7e9dbcb9d.png" tvg-name="生活时尚" group-title="本地",生活时尚
 rtsp://220.186.213.205/PLTV/88888913/224/3221229277/72486909.smil
-#EXTINF:-1,tvg-logo="https://pic.imgdb.cn/item/66aaf5cbd9c307b7e9da892a.png" tvg-name="环球旅游" group-title="本地",环球旅游iptv
+#EXTINF:-1,tvg-logo="https://pic.imgdb.cn/item/66aaf5cbd9c307b7e9da892a.png" tvg-name="环球旅游" group-title="本地",环球旅游
 rtsp://220.186.213.205/PLTV/88888913/224/3221229415/103499735.smil
 #EXTINF:-1,tvg-logo="https://pic.imgdb.cn/item/66aaf610d9c307b7e9dabdbe.png" tvg-name="快乐垂钓" group-title="本地",快乐垂钓
 rtsp://220.186.213.205/PLTV/88888913/224/3221229327/72487516.smil
@@ -202,11 +192,11 @@ rtsp://220.186.213.205/PLTV/88888913/224/3221229281/72486910.smil
 #EXTINF:-1,tvg-logo="https://pic.imgdb.cn/item/66fb4a6cf21886ccc0773219.png" tvg-name="动漫秀场" group-title="本地",动漫秀场
 rtsp://220.186.213.205/PLTV/88888913/224/3221229236/72486907.smil
 #EXTINF:-1,tvg-logo="https://pic.imgdb.cn/item/66e07152d9c307b7e9a313fe.png" tvg-name="BesTV纪实" group-title="本地",BesTV纪实
-http://192.168.50.2/rtp/233.50.200.182:5140
+http://192.168.1.1:4022/udp/233.50.200.182:5140
 #EXTINF:-1,tvg-logo="https://pic.imgdb.cn/item/66e07152d9c307b7e9a313fe.png" tvg-name="BesTV少儿" group-title="本地",BesTV少儿
-http://192.168.50.2/rtp/233.50.200.183:5140
+http://192.168.1.1:4022/udp/233.50.200.183:5140
 #EXTINF:-1,tvg-logo="https://pic.imgdb.cn/item/66e07152d9c307b7e9a313fe.png" tvg-name="BesTV视界" group-title="本地",BesTV视界
-http://192.168.50.2/rtp/233.50.200.185:5140
+http://192.168.1.1:4022/udp/233.50.200.185:5140
 #EXTINF:-1,tvg-logo="https://pic.imgdb.cn/item/66abaae1d9c307b7e9880154.png" tvg-name="北京纪实科教" group-title="本地",北京纪实
 rtsp://220.186.213.205/PLTV/88888913/224/3221229419/110036300.smil
 #EXTINF:-1,tvg-logo="https://pic.imgdb.cn/item/66abaa1ad9c307b7e9874cd0.png" tvg-name="卡酷动画" group-title="本地",卡酷少儿
@@ -214,23 +204,23 @@ rtsp://220.186.213.205/PLTV/88888913/224/3221229420/110036417.smil
 #EXTINF:-1,tvg-logo="https://pic.imgdb.cn/item/66aaf60fd9c307b7e9dabda3.png" tvg-name="金鹰卡通" group-title="本地",金鹰卡通
 rtsp://220.186.213.205/PLTV/88888913/224/3221229202/59229692.smil
 #EXTINF:-1,tvg-logo="https://pic.imgdb.cn/item/66aaf536d9c307b7e9da1dad.png" tvg-name="哈哈炫动" group-title="本地",哈哈炫动
-http://192.168.50.2/rtp/233.50.200.167:5140
+http://192.168.1.1:4022/udp/233.50.200.167:5140
 #EXTINF:-1,tvg-logo="https://pic.imgdb.cn/item/66aaf536d9c307b7e9da1dad.png" tvg-name="哈哈炫动" group-title="本地",哈哈炫动
 rtsp://220.186.213.205/PLTV/88888913/224/3221227973/10000100000000060000000000789247_0.smil$回看
 #EXTINF:-1,tvg-logo="https://pic.imgdb.cn/item/66fb49daf21886ccc076c2b3.png" tvg-name="CETV1" group-title="本地",中国教育1台
-http://192.168.50.2/rtp/233.50.200.169:5140
+http://192.168.1.1:4022/udp/233.50.200.169:5140
 #EXTINF:-1,tvg-logo="https://pic.imgdb.cn/item/66fb49daf21886ccc076c2b3.png" tvg-name="CETV1" group-title="本地",中国教育1台
 rtsp://220.186.213.205/PLTV/88888913/224/3221227968/10000100000000060000000000789246_0.smil$回看
 #EXTINF:-1,tvg-logo="https://pic.imgdb.cn/item/66fb49daf21886ccc076c2bf.png" tvg-name="CETV4" group-title="本地",中国教育4台
-http://192.168.50.2/rtp/233.50.200.162:5140
+http://192.168.1.1:4022/udp/233.50.200.162:5140
 #EXTINF:-1,tvg-logo="https://pic.imgdb.cn/item/66fb49daf21886ccc076c2bf.png" tvg-name="CETV4" group-title="本地",中国教育4台
 rtsp://220.186.213.205/PLTV/88888913/224/3221229128/10000100000000060000000005781889_0.smil$回看
 #EXTINF:-1,tvg-logo="https://pic.imgdb.cn/item/66e0fb3fd9c307b7e9468cce.png" tvg-name="第一财经" group-title="本地",第一财经
-http://192.168.50.2/rtp/233.50.200.125:5140
+http://192.168.1.1:4022/udp/233.50.200.125:5140
 #EXTINF:-1,tvg-logo="https://pic.imgdb.cn/item/66e0fb09d9c307b7e945da5b.png" tvg-name="东方财经" group-title="本地",东方财经
-http://192.168.50.2/rtp/233.50.200.177:5140
+http://192.168.1.1:4022/udp/233.50.200.177:5140
 #EXTINF:-1,tvg-logo="https://pic.imgdb.cn/item/66e0fb09d9c307b7e945dafe.png" tvg-name="纪实人文" group-title="本地",纪实人文
-http://192.168.50.2/rtp/233.50.200.168:5140
+http://192.168.1.1:4022/udp/233.50.200.168:5140
 #EXTINF:-1,tvg-logo="https://pic.imgdb.cn/item/66fb48d6f21886ccc075c889.png" tvg-name="发现之旅" group-title="本地",发现之旅
 rtsp://220.186.213.205/PLTV/88888913/224/3221229311/71994609.smil
 #EXTINF:-1,tvg-logo="https://pic.imgdb.cn/item/66fb4582f21886ccc0733aaf.png" tvg-name="CGTN" group-title="本地",CGTN
