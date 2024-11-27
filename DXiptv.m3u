@@ -1,4 +1,4 @@
-
+#EXTM3U x-tvg-url="http://192.168.10.5:18880/index.php"
 #EXTINF:-1,tvg-logo="https://pic.imgdb.cn/item/66fb44f6f21886ccc072da10.png" tvg-name="CCTV1" group-title="央视",CCTV-1综合
 http://192.168.1.1:4022/udp/233.50.201.118:5140
 #EXTINF:-1,tvg-logo="https://pic.imgdb.cn/item/66fb44f6f21886ccc072d9c0.png" tvg-name="CCTV2" group-title="央视",CCTV-2财经
