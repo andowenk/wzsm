@@ -48,6 +48,26 @@ http://183.249.114.8:58888/udp/233.50.201.87:5140
 #EXTINF:-1 tvg-id="温州新闻3" tvg-name="温州新闻3" tvg-logo="https://live.fanmingming.com/tv/温州新闻.png" group-title="温州频道",温州新闻3
 http://183.130.196.42:65103/udp/233.50.201.87:5140
 
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/凤凰中文.png" group-title="香港",凤凰中文
+http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/凤凰中文.png" group-title="香港",凤凰中文 (备用)
+http://50.7.234.10:8278/phoenixtv_hd/playlist.m3u8?tid=MFBF2713938527139385&ct=19225&tsum=1c8ca0899277714ab83db57245220068
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯.png" group-title="香港",凤凰资讯
+http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/翡翠台.png" group-title="香港",翡翠台
+http://php.jdshipin.com/TVOD/iptv.php?id=fct3
+#EXTINF:-1 "tvg-logo="https://live.fanmingming.cn/tv/TVB华丽台.png" group-title="香港",TVB华丽台
+http://php.jdshipin.com/TVOD/iptv.php?id=huali
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/TVBPlus.png" group-title="香港",TVB Plus
+http://php.jdshipin.com/TVOD/iptv.php?id=j2
+#EXTINF:-1 "tvg-logo="https://live.fanmingming.cn/tv/TVB娱乐新闻台.png" group-title="香港",TVB娱乐新闻台
+http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/TVB星河.png" group-title="香港",TVB星河
+http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
+#EXTINF:-1 "tvg-logo="https://live.fanmingming.cn/tv/无线新闻台.png" group-title="香港",无线新闻台
+http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
+
+
 
 #EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://wfg2000.github.io/epg/icon/山东卫视.png" group-title="山东频道",山东卫视
 http://php.jdshipin.com/TVOD/gsyd.php?id=9900000527
