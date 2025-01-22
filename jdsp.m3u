@@ -369,4 +369,95 @@ https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 
 #EXTINF:-1 group-title="全球直播" tvg-logo="https://wfg2000.github.io/epg/icon/SkyNews.png",SkyNews
 
-
+#EXTINF:-1 tvg-id="IPTV影视剧" tvg-name="IPTV影视剧" tvg-logo="https://epg.v1.mk/logo/IPTV影视剧.png" group-title="数字频道",影视剧场
+http://192.168.1.1/diyp/jsyd.php?p=gitv&id=GITV-JS-1.m3u8
+#EXTINF:-1 tvg-id="cctv-第一剧场" tvg-name="cctv-第一剧场" tvg-logo="https://epg.v1.mk/logo/cctv-第一剧场.png" group-title="数字频道",第一院线
+http://192.168.1.1/diyp/jsyd.php?p=gitv&id=GITV-JS-2.m3u8
+#EXTINF:-1 tvg-id="HGTV居家乐活" tvg-name="HGTV居家乐活" tvg-logo="https://epg.v1.mk/logo/HGTV居家乐活.png" group-title="数字频道",居家健身
+http://192.168.1.1/diyp/jsyd.php?p=gitv&id=GITV-JS-4.m3u8
+#EXTINF:-1 tvg-id="电视剧频道" tvg-name="电视剧频道" tvg-logo="https://epg.v1.mk/logo/电视剧频道.png" group-title="数字频道",电视剧
+http://192.168.1.1/diyp/jsyd.php?p=gitv&id=GITV-JS-6.m3u8
+#EXTINF:-1 tvg-id="[TW-II]503戲劇二台" tvg-name="[TW-II]503戲劇二台" tvg-logo="https://epg.v1.mk/logo/[TW-II]503戲劇二台.png" group-title="数字频道",二更视频
+http://192.168.1.1/diyp/jsyd.php?p=gitv&id=GITV-JS-7.m3u8
+#EXTINF:-1 tvg-id="DW德国之声" tvg-name="DW德国之声" tvg-logo="https://epg.v1.mk/logo/DW德国之声.png" group-title="数字频道",德凯奥特曼
+http://192.168.1.1/diyp/jsyd.php?p=gitv&id=GITV-JS-9.m3u8
+#EXTINF:-1 tvg-id="NEWTV熊猫生活" tvg-name="NEWTV熊猫生活" tvg-logo="https://epg.v1.mk/logo/NEWTV熊猫生活.png" group-title="数字频道",熊出没
+http://192.168.1.1/diyp/jsyd.php?p=gitv&id=GITV-JS-10.m3u8
+#EXTINF:-1 tvg-id="newtv超级体育" tvg-name="newtv超级体育" tvg-logo="https://epg.v1.mk/logo/newtv超级体育.png" group-title="数字频道",超级飞侠
+http://192.168.1.1/diyp/jsyd.php?p=gitv&id=GITV-JS-11.m3u8
+#EXTINF:-1 tvg-id="小猪佩奇" tvg-name="小猪佩奇" tvg-logo="https://epg.v1.mk/logo/小猪佩奇.png" group-title="数字频道",小猪佩奇
+http://192.168.1.1/diyp/jsyd.php?p=gitv&id=GITV-JS-12.m3u8
+#EXTINF:-1 tvg-id="贾汪新闻" tvg-name="贾汪新闻" tvg-logo="https://epg.v1.mk/logo/贾汪新闻.png" group-title="数字频道",汪汪队立大功
+http://192.168.1.1/diyp/jsyd.php?p=gitv&id=GITV-JS-13.m3u8
+#EXTINF:-1 tvg-id="4k超高清" tvg-name="4k超高清" tvg-logo="https://epg.v1.mk/logo/4k超高清.png" group-title="数字频道",高分电影
+http://192.168.1.1/diyp/jsyd.php?p=gitv&id=GITV-JS-14.m3u8
+#EXTINF:-1 tvg-id="中国乡村之声" tvg-name="中国乡村之声" tvg-logo="https://epg.v1.mk/logo/中国乡村之声.png" group-title="数字频道",乡村爱情
+http://192.168.1.1/diyp/jsyd.php?p=gitv&id=GITV-JS-15.m3u8
+#EXTINF:-1 tvg-id="热门综艺高清专区" tvg-name="热门综艺高清专区" tvg-logo="https://epg.v1.mk/logo/热门综艺高清专区.png" group-title="数字频道",热门综艺
+http://192.168.1.1/diyp/jsyd.php?p=gitv&id=GITV-JS-16.m3u8
+#EXTINF:-1 tvg-id="ASIANFOODNETWORK亚洲美食" tvg-name="ASIANFOODNETWORK亚洲美食" tvg-logo="https://epg.v1.mk/logo/ASIANFOODNETWORK亚洲美食.png" group-title="数字频道",美食美味
+http://192.168.1.1/diyp/jsyd.php?p=gitv&id=GITV-JS-17.m3u8
+#EXTINF:-1 tvg-id="爱自然" tvg-name="爱自然" tvg-logo="https://epg.v1.mk/logo/爱自然.png" group-title="数字频道",自然风景
+http://192.168.1.1/diyp/jsyd.php?p=gitv&id=GITV-JS-18.m3u8
+#EXTINF:-1 tvg-id="动物世界" tvg-name="动物世界" tvg-logo="https://epg.v1.mk/logo/动物世界.png" group-title="数字频道",动物世界
+http://192.168.1.1/diyp/jsyd.php?p=gitv&id=GITV-JS-19.m3u8
+#EXTINF:-1 tvg-id="书画" tvg-name="书画" tvg-logo="https://epg.v1.mk/logo/书画.png" group-title="数字频道",书籍解读
+http://192.168.1.1/diyp/jsyd.php?p=gitv&id=GITV-JS-20.m3u8
+#EXTINF:-1 tvg-id="MOMO亲子" tvg-name="MOMO亲子" tvg-logo="https://epg.v1.mk/logo/MOMO亲子.png" group-title="数字频道",亲子玩具
+http://192.168.1.1/diyp/jsyd.php?p=gitv&id=GITV-JS-21.m3u8
+#EXTINF:-1 tvg-id="晴彩广场舞" tvg-name="晴彩广场舞" tvg-logo="https://epg.v1.mk/logo/晴彩广场舞.png" group-title="数字频道",广场舞
+http://192.168.1.1/diyp/jsyd.php?p=gitv&id=GITV-JS-22.m3u8
+#EXTINF:-1 tvg-id="CCTV-11戏曲" tvg-name="CCTV-11戏曲" tvg-logo="https://epg.v1.mk/logo/CCTV-11戏曲.png" group-title="数字频道",戏曲音乐
+http://192.168.1.1/diyp/jsyd.php?p=gitv&id=GITV-JS-23.m3u8
+#EXTINF:-1 tvg-id="IPTV相声小品" tvg-name="IPTV相声小品" tvg-logo="https://epg.v1.mk/logo/IPTV相声小品.png" group-title="数字频道",相声联欢
+http://192.168.1.1/diyp/jsyd.php?p=gitv&id=GITV-JS-24.m3u8
+#EXTINF:-1 tvg-id="bestv青春动漫" tvg-name="bestv青春动漫" tvg-logo="https://epg.v1.mk/logo/bestv青春动漫.png" group-title="数字频道",动漫星空
+http://192.168.1.1/diyp/jsyd.php?p=gitv&id=GITV-JS-25.m3u8
+#EXTINF:-1 tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="数字频道",楚乔传
+http://192.168.1.1/diyp/jsyd.php?p=gitv&id=GITV-JS-26.m3u8
+#EXTINF:-1 tvg-id="NEWTV完美游戏" tvg-name="NEWTV完美游戏" tvg-logo="https://epg.v1.mk/logo/NEWTV完美游戏.png" group-title="数字频道",完美的她
+http://192.168.1.1/diyp/jsyd.php?p=gitv&id=GITV-JS-27.m3u8
+#EXTINF:-1 tvg-id="哈尔滨娱乐A" tvg-name="哈尔滨娱乐A" tvg-logo="https://epg.v1.mk/logo/哈尔滨娱乐A.png" group-title="数字频道",哈尔滨一九四四
+http://192.168.1.1/diyp/jsyd.php?p=gitv&id=GITV-JS-28.m3u8
+#EXTINF:-1 tvg-id="CCTV-7军事" tvg-name="CCTV-7军事" tvg-logo="https://epg.v1.mk/logo/CCTV-7军事.png" group-title="数字频道",军事之旅
+http://192.168.1.1/diyp/jsyd.php?p=gitv&id=GITV-JS-29.m3u8
+#EXTINF:-1 tvg-id="IHOT爱科幻" tvg-name="IHOT爱科幻" tvg-logo="https://epg.v1.mk/logo/IHOT爱科幻.png" group-title="数字频道",科幻世界
+http://192.168.1.1/diyp/jsyd.php?p=gitv&id=GITV-JS-30.m3u8
+#EXTINF:-1 tvg-id="NICKELODEONASIA(尼克儿童)" tvg-name="NICKELODEONASIA(尼克儿童)" tvg-logo="https://epg.v1.mk/logo/NICKELODEONASIA(尼克儿童).png" group-title="数字频道",儿童天地
+http://192.168.1.1/diyp/jsyd.php?p=gitv&id=GITV-JS-31.m3u8
+#EXTINF:-1 tvg-id="纪录片" tvg-name="纪录片" tvg-logo="https://epg.v1.mk/logo/纪录片.png" group-title="数字频道",纪录片
+http://192.168.1.1/diyp/jsyd.php?p=gitv&id=GITV-JS-32.m3u8
+#EXTINF:-1 tvg-id="cctv15音乐" tvg-name="cctv15音乐" tvg-logo="https://epg.v1.mk/logo/cctv15音乐.png" group-title="数字频道",音乐心情
+http://192.168.1.1/diyp/jsyd.php?p=gitv&id=GITV-JS-33.m3u8
+#EXTINF:-1 tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="数字频道",掼蛋频道
+http://192.168.1.1/diyp/jsyd.php?p=gitv&id=GITV-JS-34.m3u8
+#EXTINF:-1 tvg-id="BTV体育休闲" tvg-name="BTV体育休闲" tvg-logo="https://epg.v1.mk/logo/BTV体育休闲.png" group-title="数字频道",体坛同期声
+http://192.168.1.1/diyp/jsyd.php?p=gitv&id=GITV-JS-35.m3u8
+#EXTINF:-1 tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="数字频道",臻享推荐
+http://192.168.1.1/diyp/jsyd.php?p=gitv&id=GITV-JS-36.m3u8
+#EXTINF:-1 tvg-id="cctv-怀旧剧场" tvg-name="cctv-怀旧剧场" tvg-logo="https://epg.v1.mk/logo/cctv-怀旧剧场.png" group-title="数字频道",怀旧MTV
+http://192.168.1.1/diyp/jsyd.php?p=gitv&id=GITV-JS-37.m3u8
+#EXTINF:-1 tvg-id="cctv-电视指南" tvg-name="cctv-电视指南" tvg-logo="https://epg.v1.mk/logo/cctv-电视指南.png" group-title="数字频道",南来北往
+http://192.168.1.1/diyp/jsyd.php?p=gitv&id=GITV-JS-39.m3u8
+#EXTINF:-1 tvg-id="AKC狗狗宠物" tvg-name="AKC狗狗宠物" tvg-logo="https://epg.v1.mk/logo/AKC狗狗宠物.png" group-title="数字频道",狗剩快跑
+http://192.168.1.1/diyp/jsyd.php?p=gitv&id=GITV-JS-40.m3u8
+#EXTINF:-1 tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="数字频道",狂飙
+http://192.168.1.1/diyp/jsyd.php?p=gitv&id=GITV-JS-41.m3u8
+#EXTINF:-1 tvg-id="021新唐人亞太台" tvg-name="021新唐人亞太台" tvg-logo="https://epg.v1.mk/logo/021新唐人亞太台.png" group-title="数字频道",人世间
+http://192.168.1.1/diyp/jsyd.php?p=gitv&id=GITV-JS-42.m3u8
+#EXTINF:-1 tvg-id="bestv全球大片" tvg-name="bestv全球大片" tvg-logo="https://epg.v1.mk/logo/bestv全球大片.png" group-title="数字频道",大江大河
+http://192.168.1.1/diyp/jsyd.php?p=gitv&id=GITV-JS-43.m3u8
+#EXTINF:-1 tvg-id="NewTV山东" tvg-name="NewTV山东" tvg-logo="https://epg.v1.mk/logo/NewTV山东.png" group-title="数字频道",山海情
+http://192.168.1.1/diyp/jsyd.php?p=gitv&id=GITV-JS-44.m3u8
+#EXTINF:-1 tvg-id="冰火" tvg-name="冰火" tvg-logo="https://epg.v1.mk/logo/冰火.png" group-title="数字频道",冰雪竞技场
+http://192.168.1.1/diyp/jsyd.php?p=gitv&id=GITV-JS-45.m3u8
+#EXTINF:-1 tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="数字频道",邪恶与疯狂
+http://192.168.1.1/diyp/jsyd.php?p=gitv&id=GITV-JS-46.m3u8
+#EXTINF:-1 tvg-id="newtv炫舞未来" tvg-name="newtv炫舞未来" tvg-logo="https://epg.v1.mk/logo/newtv炫舞未来.png" group-title="数字频道",来自星星的你
+http://192.168.1.1/diyp/jsyd.php?p=gitv&id=GITV-JS-47.m3u8
+#EXTINF:-1 tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="数字频道",哦我的鬼神大人
+http://192.168.1.1/diyp/jsyd.php?p=gitv&id=GITV-JS-48.m3u8
+#EXTINF:-1 tvg-id="Astro小太阳" tvg-name="Astro小太阳" tvg-logo="https://epg.v1.mk/logo/Astro小太阳.png" group-title="数字频道",太阳的后裔
+http://192.168.1.1/diyp/jsyd.php?p=gitv&id=GITV-JS-49.m3u8
+#EXTINF:-1 tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="数字频道",请回答1988
+http://192.168.1.1/diyp/jsyd.php?p=gitv&id=GITV-JS-50.m3u8
