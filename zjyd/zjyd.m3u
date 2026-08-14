@@ -1,4 +1,5 @@
-#EXTM3U
+#EXTM3U x-tvg-url="https://epg.112114.xyz/pp.xml.gz"
+#EXT-X-SUB-URL https://gh-proxy.org/https://raw.githubusercontent.com/andowenk/wzsm/refs/heads/main/zjyd/zjyd.m3u
 #EXTINF:-1 group-title="央视频道" tvg-logo="https://live.zbds.top/logo/CCTV1.png",CCTV1
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228318/01.m3u8?fmt=ts2hls
 #EXTINF:-1 group-title="央视频道" tvg-logo="https://live.zbds.top/logo/CCTV1.png",CCTV1
